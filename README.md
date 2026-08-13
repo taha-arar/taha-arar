@@ -430,45 +430,6 @@ Enterprise business application involving complex backend workflows, authenticat
 `Java` · `Spring Boot` · `PostgreSQL` · `Angular` · `Docker` · `Linux` · `Spring Security` · `REST APIs`
 
 ---
-
-# 🏗️ Architecture
-
-I enjoy designing systems around clear separation of responsibilities, secure APIs, asynchronous processing and scalable infrastructure.
-
-```text
-                    WEB / MOBILE CLIENTS
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │    REST APIs    │
-                  │   Spring Boot   │
-                  └────────┬────────┘
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-             ▼             ▼             ▼
-        PostgreSQL       Redis       Object Storage
-                                     S3 / MinIO / RustFS
-             │
-             ▼
-       ┌───────────────┐
-       │ Kafka /       │
-       │ RabbitMQ      │
-       └───────┬───────┘
-               │
-               ▼
-       ASYNCHRONOUS SERVICES
-               
-               │
-               ▼
-       ┌──────────────────┐
-       │ Docker / Linux   │
-       │ Nginx / VPS      │
-       └──────────────────┘
-```
-
----
-
 # ⚡ Performance & Engineering
 
 Some of the areas I regularly work on:
