@@ -6,13 +6,13 @@ Tech Lead · Backend-Focused Full-Stack Developer · AI Automation
 
 <p align="center">
   <a href="https://taha-arar-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0e75b6?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/taha-arar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/taha-arar">
-    <img src="https://img.shields.io/github/followers/taha-arar?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers"/>
+    <img src="https://img.shields.io/badge/GitHub-taha--arar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -24,105 +24,33 @@ Tech Lead · Backend-Focused Full-Stack Developer · AI Automation
 
 ## 👨‍💻 About Me
 
-I'm a **Tech Lead and backend-focused full-stack developer** specialized in building business applications, REST APIs, distributed systems, payment integrations, authentication systems, and production infrastructure.
+I'm a **Tech Lead and backend-focused full-stack developer** specialized in building production-ready business applications, REST APIs, secure authentication systems, payment integrations, document-processing systems, and production infrastructure.
 
-My main expertise is around the **Java / Spring Boot ecosystem**, PostgreSQL, Docker and Linux, while also working across web, mobile, cloud and AI automation.
+My strongest area is the **Java / Spring Boot ecosystem**, combined with PostgreSQL, Docker, Linux, cloud storage, messaging systems, and modern web/mobile technologies.
 
-I enjoy taking a project from **architecture → development → integration → deployment → production**.
+I enjoy working across the complete lifecycle of a product:
 
-```text
-Backend        → Java · Spring Boot · Spring Security · REST APIs
-Databases      → PostgreSQL · MySQL · Oracle · Redis
-Frontend       → Angular · Thymeleaf · HTML · CSS · JavaScript · Tailwind
-Mobile         → Kotlin · Android · WebView · Firebase · CameraX
-Infrastructure → Docker · Linux · Nginx · AWS · S3 · MinIO · RustFS
-Messaging      → Kafka · RabbitMQ
-Security       → JWT · OAuth2 · OTP · HTTPS · Certificate Pinning
-AI             → AI Agents · AI Automation · API Integrations
-DevOps         → Git · GitLab · CI/CD · VPS · Production Deployments
-```
+**Architecture → Development → Integration → Optimization → Deployment → Production**
 
----
+### 💡 My main focus
 
-## 🚀 What I Do
-
-* 🏗️ Design and develop **backend architectures and REST APIs**
-* ☕ Build production applications with **Java & Spring Boot**
-* 🔐 Implement authentication, authorization, JWT, OTP and security flows
-* 🗄️ Design and optimize **PostgreSQL databases and queries**
-* ⚡ Optimize application performance and database access
-* 🐳 Containerize and deploy applications using **Docker**
-* 🖥️ Manage Linux servers, VPS infrastructure and production deployments
-* ☁️ Integrate cloud and object storage solutions such as **AWS S3, MinIO and RustFS**
-* 💳 Integrate online payment systems and payment APIs
-* 📱 Build Android applications with **Kotlin**
-* 🌐 Build web applications with **Angular and Thymeleaf**
-* 🤖 Build and integrate **AI-powered automation and AI agents**
-* 📡 Work with asynchronous systems using **Kafka and RabbitMQ**
-* 📄 Work with document processing, OCR, PDF and file-storage systems
-* 📊 Build logging, monitoring and troubleshooting solutions for production systems
+* 🏗️ Backend architecture & scalable APIs
+* ☕ Java & Spring Boot
+* 🗄️ PostgreSQL & database optimization
+* 🔐 Security & authentication
+* 🐳 Docker & production infrastructure
+* ☁️ AWS & object storage
+* 📱 Android & Kotlin
+* 🌐 Angular & web applications
+* 📡 Distributed systems & messaging
+* 🤖 AI automation & AI agents
+* 💳 Payment & third-party API integrations
 
 ---
 
-## 🔥 Currently Working On
+# 🧠 Core Expertise
 
-### Flexy-Pro
-
-A business platform involving:
-
-* Android application
-* Web application
-* REST APIs
-* Online payment integration
-* CIB / Edahabia payment flows
-* OTP authentication
-* SMS integration
-* Firebase notifications
-* Secure account and transaction flows
-* Production deployment and infrastructure
-
-🌐 **Website:** https://flexy-pro.com
-
----
-
-## 🧠 Currently Learning & Exploring
-
-* 🤖 AI Agents & AI Automation
-* 🏗️ Microservices Architecture
-* ☁️ Cloud Infrastructure
-* ⚙️ Distributed Systems
-* 📦 Advanced Docker & deployment strategies
-* 🔄 Event-driven architectures
-* 🧩 Scalable backend architectures
-
----
-
-# 🛠️ Technology Stack
-
-## Backend
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
-<a href="https://spring.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</a>
-<a href="https://www.oracle.com/database/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
-</a>
-</p>
-
-**Core Backend Technologies**
+### Backend Development
 
 * Java
 * Spring Boot
@@ -133,67 +61,148 @@ A business platform involving:
 * REST APIs
 * JWT
 * OAuth2
+* Role-Based Access Control
 * Maven
+* API integrations
+* Webhooks
+* Asynchronous processing
+
+### Database & Performance
+
 * PostgreSQL
 * MySQL
 * Oracle
 * H2
-* Apache POI
-* PDFBox
-* Blaze-Persistence
-* Spring State Machine
+* Redis
+* Database design
+* Query optimization
+* Indexing
+* Performance optimization
+* Transaction management
+
+I've worked on backend optimizations where database indexing and query improvements reduced API response times from approximately **3 seconds to 300 ms**.
+
+### Infrastructure & Deployment
+
+* Docker
+* Linux / Ubuntu
+* VPS
+* Nginx
+* AWS
+* AWS S3
+* MinIO
+* RustFS
+* Git
+* GitLab
+* CI/CD
+* SSL / HTTPS
+* Reverse proxies
+* Production deployments
+* Server troubleshooting
+
+---
+
+# 🛠️ Technology Stack
+
+## ☕ Backend
+
+<p align="left">
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+<a href="https://spring.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
+</a>
+
+<a href="https://maven.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
+</a>
+
+<a href="https://hibernate.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.oracle.com/database/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+</a>
+
+</p>
 
 ---
 
 ## 🌐 Frontend
 
 <p align="left">
+
 <a href="https://angular.dev/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
-</p>
 
-* Angular
-* Thymeleaf
-* JavaScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Chart.js
-* Figma
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://www.chartjs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="45" height="45" alt="Chart.js"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+</a>
+
+</p>
 
 ---
 
-## 📱 Mobile Development
+## 📱 Android & Mobile
 
 <p align="left">
+
 <a href="https://developer.android.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
 </a>
+
 <a href="https://kotlinlang.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
 </a>
+
 <a href="https://firebase.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
 </a>
+
+<a href="https://gradle.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45" height="45" alt="Gradle"/>
+</a>
+
 </p>
 
+**Android technologies:**
+
 * Kotlin
-* Android
-* Gradle Kotlin DSL
 * Android SDK
+* Gradle Kotlin DSL
 * Material Design
 * View Binding
 * WebView
@@ -207,109 +216,155 @@ A business platform involving:
 
 ---
 
-# ☁️ Cloud, Infrastructure & DevOps
+# ☁️ Cloud, DevOps & Infrastructure
 
 <p align="left">
+
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 </a>
+
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 </a>
+
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
 </a>
+
 <a href="https://nginx.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
 </a>
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </a>
+
+<a href="https://about.gitlab.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab"/>
+</a>
+
 </p>
+
+**Infrastructure & storage:**
 
 * Docker
 * Linux / Ubuntu
-* VPS
 * Nginx
 * AWS
 * AWS S3
 * MinIO
 * RustFS
-* Git
-* GitLab
-* CI/CD
-* Production deployments
-* SSL / HTTPS
+* VPS
 * Reverse Proxy
+* SSL / HTTPS
+* CI/CD
+* GitLab
+* Production deployments
 * Server administration
 
 ---
 
-# ⚡ Distributed Systems & Messaging
+# 📡 Distributed Systems & Messaging
 
 <p align="left">
+
 <a href="https://kafka.apache.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Apache Kafka"/>
 </a>
+
 <a href="https://www.rabbitmq.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45" alt="RabbitMQ"/>
 </a>
+
 <a href="https://redis.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
 </a>
+
+<a href="https://www.elastic.co/elasticsearch" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="45" height="45" alt="Elasticsearch"/>
+</a>
+
+<a href="https://www.elastic.co/kibana" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="45" height="45" alt="Kibana"/>
+</a>
+
 </p>
 
 * Apache Kafka
 * RabbitMQ
 * Redis
+* Elasticsearch
+* Kibana
 * Event-driven architecture
 * Asynchronous processing
 * Distributed systems
+* Application logging
 
 ---
 
-# 🔐 Security & Integrations
+# 🔐 Security
 
-I have worked on production authentication and integration systems involving:
+I build and integrate secure authentication and authorization systems using:
 
 * Spring Security
-* JWT authentication
+* JWT
 * OAuth2
-* Role-based access control
-* OTP via Email & SMS
-* Password reset flows
-* SMS REST APIs
-* Firebase
-* Payment APIs
-* CIB / Edahabia integrations
-* Webhooks
-* Secure REST API integrations
+* Role-Based Access Control
+* Password security
+* Password history
+* OTP authentication
+* Email OTP
+* SMS OTP
+* Secure PIN-based actions
 * HTTPS
 * Certificate Pinning
-* API security
-* PIN-based transaction authorization
+* CORS
+* Secure REST APIs
+* Token-based authentication
 
 ---
 
-# 📦 Storage & Documents
+# 💳 Payment & Third-Party Integrations
 
-* AWS S3
-* MinIO
-* RustFS
-* PostgreSQL
-* PDFBox
+I've worked with integrations involving:
+
+* Online payment APIs
+* CIB
+* Edahabia
+* Payment gateways
+* REST APIs
+* SMS providers
+* Firebase
+* Webhooks
+* External service integrations
+
+I also work with **REST-based third-party APIs**, handling authentication, request/response mapping, error handling, retries and integration testing.
+
+---
+
+# 📄 Documents, Files & OCR
+
+Experience with:
+
 * Apache POI
-* PDF generation / processing
+* PDFBox
+* PDF generation
+* PDF processing
 * Image processing
 * OCR integrations
 * Document management
-* File upload / download systems
+* File uploads/downloads
+* AWS S3
+* MinIO
+* RustFS
+* Large file storage
 
 ---
 
-# 🔎 Logging, Monitoring & Troubleshooting
+# 🔎 Production Logging & Troubleshooting
 
-Production troubleshooting is also part of my daily work.
+Production debugging and infrastructure troubleshooting are an important part of my work.
 
 I've worked with:
 
@@ -317,140 +372,206 @@ I've worked with:
 * Dozzle
 * Elasticsearch
 * Kibana
-* Application monitoring
 * VPS troubleshooting
-* Database performance optimization
+* Linux server administration
+* Application monitoring
+* Database optimization
 * API performance optimization
 * Production debugging
 
-One example of optimization work involved reducing an API response time from **~3 seconds to ~300 ms** through database/query optimization and indexing.
+I recently moved from manually connecting to individual VPS servers and running Docker commands to a centralized **Dozzle-based approach** for viewing and searching live Docker logs across applications.
 
 ---
 
 # 🚀 Featured Projects
 
-### 💳 Flexy-Pro
+## 💳 Flexy-Pro
 
-A platform combining web, Android and backend services with payment, authentication and transaction features.
+A business platform with web, Android and backend components.
 
-**Technologies:**
-Java · Spring Boot · PostgreSQL · Angular · Kotlin · Android · Docker · Firebase · REST APIs · Payment APIs · OTP · SMS
+**Main areas:**
+
+* Android application
+* Web application
+* REST API
+* Online payments
+* CIB / Edahabia
+* OTP authentication
+* SMS verification
+* Firebase notifications
+* Secure transaction flows
+* PIN-based operations
+* Production deployment
+
+**Stack:**
+
+`Java` · `Spring Boot` · `PostgreSQL` · `Angular` · `Kotlin` · `Android` · `Docker` · `Firebase` · `REST APIs`
 
 🌐 https://flexy-pro.com
 
 ---
 
-### 📄 InvoiceYB
+## 📄 InvoiceYB
 
-Business/invoicing application involving backend services, document management, authentication and production infrastructure.
+Business and invoicing platform involving backend services, document management, authentication and production infrastructure.
 
-**Technologies:**
-Java · Spring Boot · PostgreSQL · Docker · Linux · REST APIs · PDF · File Storage
+**Stack:**
 
----
-
-### 🏢 CCM
-
-Business web application with complex backend workflows, authentication, roles, document processing and production infrastructure.
-
-**Technologies:**
-Java · Spring Boot · PostgreSQL · Angular · Docker · Linux · REST APIs · Security
+`Java` · `Spring Boot` · `PostgreSQL` · `Docker` · `Linux` · `REST APIs` · `PDF` · `Object Storage`
 
 ---
 
-# 🏗️ Architecture Interests
+## 🏢 CCM
 
-I particularly enjoy working on:
+Enterprise business application involving complex backend workflows, authentication, authorization, document processing and production infrastructure.
+
+**Stack:**
+
+`Java` · `Spring Boot` · `PostgreSQL` · `Angular` · `Docker` · `Linux` · `Spring Security` · `REST APIs`
+
+---
+
+# 🏗️ Architecture
+
+I enjoy designing systems around clear separation of responsibilities, secure APIs, asynchronous processing and scalable infrastructure.
 
 ```text
-                    ┌─────────────────────┐
-                    │     Web / Mobile    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      REST APIs      │
-                    │    Spring Boot      │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-        PostgreSQL           Redis          Object Storage
-                                           S3 / MinIO / RustFS
-              │
-              ▼
+                    WEB / MOBILE CLIENTS
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │    REST APIs    │
+                  │   Spring Boot   │
+                  └────────┬────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+        PostgreSQL       Redis       Object Storage
+                                     S3 / MinIO / RustFS
+             │
+             ▼
        ┌───────────────┐
        │ Kafka /       │
        │ RabbitMQ      │
        └───────┬───────┘
                │
                ▼
-       Asynchronous Services
+       ASYNCHRONOUS SERVICES
                
-               +
-               
-       Docker · Linux · Nginx
                │
                ▼
-        Production VPS / Cloud
+       ┌──────────────────┐
+       │ Docker / Linux   │
+       │ Nginx / VPS      │
+       └──────────────────┘
 ```
 
 ---
 
-# 📈 GitHub Statistics
+# ⚡ Performance & Engineering
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha-arar&show_icons=true&theme=tokyonight&hide_border=true" alt="Taha's GitHub stats"/>
-</p>
+Some of the areas I regularly work on:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-arar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=taha-arar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taha-arar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
+* Database indexing
+* Query optimization
+* API response optimization
+* JPA/Hibernate optimization
+* Lazy loading issues
+* Transaction management
+* Large dataset processing
+* REST API design
+* Caching
+* Asynchronous processing
+* Clean architecture
+* Refactoring legacy code
+* Production debugging
 
 ---
 
-# 🤝 Connect With Me
+# 🤖 AI & Automation
+
+I'm currently expanding my work into **AI-powered automation** and **AI agents**.
+
+Areas I'm exploring:
+
+* AI Agents
+* AI-powered business automation
+* LLM integrations
+* REST/API-based AI integrations
+* Automated workflows
+* Prospect/customer automation
+* AI-assisted business processes
+* Microservices architectures for AI systems
+
+---
+
+# 🌱 Currently Learning
 
 <p align="left">
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
+</a>
+
+<a href="https://www.rust-lang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" height="45" alt="Rust"/>
+</a>
+
+</p>
+
+* 🤖 AI Automation & AI Agents
+* 🏗️ Microservices
+* ☸️ Kubernetes
+* 🦀 Rust
+* 📡 Distributed systems
+* ☁️ Cloud architecture
+* 🔄 Event-driven architecture
+
+---
+
+# 📊 GitHub Activity
+
+Rather than relying on external dynamically generated statistics that can randomly break, I prefer keeping this profile focused on my **projects, engineering work and technologies**.
+
+You can explore my repositories and contributions directly here:
+
+👉 **https://github.com/taha-arar**
+
+---
+
+# 📫 Contact
+
+<p align="left">
+
 <a href="https://www.linkedin.com/in/taha-arar" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Taha%20ARAR-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Taha%20ARAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.facebook.com/arartaha" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Taha%20ARAR-1877F2?style=for-the-badge&logo=facebook" alt="Facebook"/>
+<img src="https://img.shields.io/badge/Facebook-Taha%20ARAR-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <a href="https://www.instagram.com/taha.arar" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-taha.arar-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-taha.arar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://taha-arar-portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-taha--arar-0e75b6?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-taha--arar-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
+
 </p>
 
-📧 **Email:** Available through my portfolio
 📱 **WhatsApp:** +213 542 664 168
+🌐 **Portfolio:** https://taha-arar-portfolio.com
 📄 **CV:** https://taha-arar-portfolio.com/files/Taha%20ARAR%20CV%20PDF.pdf
 
 ---
 
 <p align="center">
-  <b>Building scalable systems, solving real-world problems, and turning ideas into production-ready software.</b>
+  <b>Building scalable systems · Solving real-world problems · Turning ideas into production-ready software</b>
 </p>
 
 <p align="center">
-  ⭐ If you find my work useful, feel free to explore my repositories and connect with me.
+  ⭐ Feel free to explore my repositories and connect with me.
 </p>
